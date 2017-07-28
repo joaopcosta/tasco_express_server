@@ -1,0 +1,28 @@
+{
+  "name": "tasco",
+  "version": "1.0.0",
+  "description": "Tasco basic express server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopcosta/tasco-express.git"
+  },
+  "keywords": [
+    "express",
+    "tasco",
+    "server"
+  ],
+  "author": "Tasco Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaopcosta/tasco-express/issues"
+  },
+  "homepage": "https://github.com/joaopcosta/tasco-express#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
